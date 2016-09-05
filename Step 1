@@ -1,0 +1,6 @@
+#! python3
+#pw.py -> An insecure password locker proram.
+
+PASSWORDS = {'email': 'abcdefg',
+			 'blog': 'hijklmn',
+			 'luggage': 'opqrstuvwxyz'}
